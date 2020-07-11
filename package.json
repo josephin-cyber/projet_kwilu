@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "hooks": "^0.3.2",
+    "react-hooks": "^1.0.1"
+  }
+}

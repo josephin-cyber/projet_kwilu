@@ -1,0 +1,32 @@
+.marge{
+    
+    background-color:#F8F8FB;
+
+}
+#color{
+    background-color: #F8F8FB;
+    height: 600px;
+    margin-top: 20px;
+} 
+
+.segment2{
+   
+    height: 250px;
+   
+}
+.segment1{
+   
+    height: 250px;
+   
+}
+.floatBnt{
+    float: right;
+}
+.bnt{
+    float: right;
+}
+#cont{
+    margin-bottom: 60em;
+
+}
+

@@ -1,0 +1,14 @@
+.corps{
+    background-color: #F8F8FB;
+    padding:0px 15px 0px 15px;
+    height: 600px;
+}
+
+.customDropdown{
+    /* z-index: 2; */
+    /* padding-top: 50%; */
+}
+
+#etat{
+    color: red;
+}
