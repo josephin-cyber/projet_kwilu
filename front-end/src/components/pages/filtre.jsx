@@ -15,7 +15,7 @@ const DropdownExampleInput = () => (
   >
     <Dropdown.Menu>
       <Dropdown.Header content='Tappez votre recherche ici' />
-      <form><div><Input icon='search' iconPosition='left' name='search' /></div></form>
+      {/*<form><div><Input icon='search' iconPosition='left' name='search' /></div></form>*/}
       <Dropdown.Header icon='tags' content='Ou Filtrer par état de chargement' />
       <Dropdown.Divider />
       <Dropdown.Item

@@ -14,7 +14,7 @@ const checkAuth=require('./api/middleware/check-auth');
 app.use(cors());
 
 // parse application/x-www-form-urlencoded
-app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.urlencoded({ extended: 0 }));
 
 // parse application/json
 app.use(bodyParser.json());

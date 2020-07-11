@@ -1,6 +1,7 @@
 .corps{
     background-color: #F8F8FB;
-    padding:0px 15px 0px 15px;
+    margin-left: 40px !important;
+    margin-right: 40px !important;
     height: 600px;
 }
 
